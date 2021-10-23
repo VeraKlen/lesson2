@@ -7,6 +7,6 @@ main()
 	for(k=0; k<=n; k++){
 	p =p* (a+k)*(a+k);
 }
-	cout<<p<<k<<a<<endl;
+	cout<<p<<endl;
 	
 }

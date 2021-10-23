@@ -17,5 +17,5 @@ int main(){
 			y2*=-1.;		
 		}
 	}
-	cout<<yn<<y2<<endl;
+	cout<<yn<<endl;
 }
